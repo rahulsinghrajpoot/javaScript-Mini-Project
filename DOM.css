@@ -1,0 +1,37 @@
+h1{
+    background-color: lightpink;
+    color: red;
+}
+h4{
+    color: rebeccapurple;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
+body{
+    background-color: lightsalmon;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    margin: 5px;
+    border: solid, 1px;
+    text-align: center;
+}
+
+.para{
+    background-color: aquamarine;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.newPara{
+    background-color: blueviolet;
+}
